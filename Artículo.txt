@@ -1,0 +1,4 @@
+Amarillo - Idea principal
+Rojo - Evaluación
+Azul - Estructura
+Verde - Dataset
